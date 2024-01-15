@@ -17,7 +17,7 @@ Stappen:
 Environment variabelen voor de API:
   - MONGO_USER=admin
   - MONGO_PWD=S3cret
-  - MONGO_URL=mongodb
+  - MONGO_URL=mongo
 
 Maak een commit voor elke stap. Pushen naar de origin hoef je niet te doen.
  
